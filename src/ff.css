@@ -1,0 +1,14 @@
+.download {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-image: url('https://i.pinimg.com/originals/6b/1a/e2/6b1ae29eecf24e0e046e51293891bb20.jpg');
+    background-position-x: 0%;
+    background-position-y: 40%;
+    padding-top: 17%;
+    font-family: Arial, Helvetica, sans-serif;
+    color:yellow ;
+  }
+  
